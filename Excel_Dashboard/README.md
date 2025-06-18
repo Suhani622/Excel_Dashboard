@@ -22,7 +22,3 @@ Dataset Used - https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
 - **Customer Commute Distance:** Analyze the distribution of customers based on their commute distance and bike purchase status.
 - **Customer Age Brackets:** Explore bike sales across different age brackets, categorizing customers as adolescent, middle-aged, and old.
 
-## Instructions for Use
-1. Download the dataset from the provided GitHub repository link.
-2. Explore the interactive dashboard to gain insights into bike sales based on various demographics.
-3. Contribute or modify the project as needed for your specific requirements.
